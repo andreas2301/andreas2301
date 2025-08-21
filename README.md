@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, ich bin Andreas
 
-<!--
-**andreas2301/andreas2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full‑Stack & Cloud Developer** | Angular • Spring Boot • Postgres • AWS EC2/Kubernetes | CI/CD mit GitHub Actions  
+🛠 **Process Automation Enthusiast** – n8n mit Docker (lokal & self‑hosted)  
+🤖 **AI‑Integration** in Web‑ und Cloud‑Services • API‑Aggregation & Data‑Driven Apps  
+☁ Baue skalierbare, cloud‑native Services mit Fokus auf **Production Readiness** & **Automatisierung**  
+🔍 Always learning: Event‑Driven Architectures • Serverless Patterns • MLOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Frontend**: Angular, TypeScript, HTML5, CSS3  
+- **Backend**: Spring Boot, Java, REST APIs  
+- **Datenbanken**: PostgreSQL, MySQL  
+- **DevOps**: GitHub Actions, Docker, Kubernetes, AWS  
+- **Automation**: n8n, API‑Workflows, Local Docker Orchestration
