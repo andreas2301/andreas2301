@@ -14,4 +14,4 @@
 - **Backend**: Spring Boot, Java, REST APIs  
 - **Datenbanken**: PostgreSQL, MySQL  
 - **DevOps**: GitHub Actions, Docker, Kubernetes, AWS  
-- **Automation**: n8n, API‑Workflows, Local Docker Orchestration
+- **Automation**: openClaw, ollama, n8n, API‑Workflows, Docker Orchestration
